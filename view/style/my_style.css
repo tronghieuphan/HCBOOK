@@ -1,0 +1,31 @@
+.header_area .main_menu .main_box {
+    background: #fff;
+    margin: 0px auto 0;
+        max-width: 80%;
+    box-shadow: 0 10px 30px rgb(0 0 0 / 10%);
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+
+.header_area .navbar .nav .nav-item .nav-link {
+    padding: 0px 10px;
+    font-size: 15px;
+}
+.header_area .navbar .nav.navbar-nav.navbar-right li span {
+    color: #222222;
+    line-height: 80px;
+    font-weight: 500;
+    
+}
+.logo{
+    width: 10px;
+    height: 10px;
+}
+
+
+.cart_inner .table tbody tr td .media .d-flex {
+    padding-right: 30px;
+    height: 100px;
+}
